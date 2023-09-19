@@ -1,2 +1,2 @@
 # CriminalChain
-Ablockchain based criminal record management system
+A blockchain based criminal record management system
